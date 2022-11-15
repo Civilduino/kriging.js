@@ -479,7 +479,3 @@ var kriging = function() {
 
     return kriging;
 }();
-
-if (module && module.exports){
-    module.exports = kriging;
-}
